@@ -1,6 +1,6 @@
 # CPDSE Course Repository Template  (Replace with Course Title)
 
-Learn how to set up a course repository with git bash: [https://github.com/CPDSE-EDUX/CheatSheets/blob/main/Git/Course-Repositories.md](https://github.com/CPDSE-EDUX/CheatSheets/blob/main/Git/Course-Repositories.md)
+When creating a new course, please follow the conventions: [https://github.com/CPDSE-EDUX/.github/blob/main/profile/README.md](https://github.com/CPDSE-EDUX/.github/blob/main/profile/README.md)
 
 ## About this repository
 
